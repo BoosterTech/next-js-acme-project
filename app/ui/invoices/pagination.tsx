@@ -1,7 +1,7 @@
 'use client';
 
 import { ArrowLeftIcon, ArrowRightIcon } from '@heroicons/react/24/outline';
-import  from '';
+// import  from '';
 import Link from 'next/link';
 import { generatePagination } from '@/app/lib/utils';
 
